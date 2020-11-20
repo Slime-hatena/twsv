@@ -1,6 +1,6 @@
 {
   "name": "slime-hatena/twsv",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Twitter の画像・動画をダウンロードする CLI ツール",
   "main": "main.js",
   "bin": {
