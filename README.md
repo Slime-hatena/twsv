@@ -1,4 +1,15 @@
-# @neos21/twsv : twsv
+# @Slime-hatena/twsv : twsv
+
+## Fork元との変更点
+
+特定ユーザーの画像を取得する際、リツイートを取得しません。  
+パラメーターのみを差し替えたため、不具合等のサポートはできません。
+
+GitHub Packagesのみで公開されます。
+
+See also: [Slime-hatena/twsv #1](https://github.com/Slime-hatena/twsv/issues/1)
+
+## Original readme
 
 Twitter の画像・動画をダウンロードする CLI ツール。
 
