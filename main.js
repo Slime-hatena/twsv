@@ -346,7 +346,7 @@ function fetchTimelineTweets(userName) {
     include_entities: true,
     trim_user: false,        // ユーザ情報を除外しない
     exclude_replies: false,  // リプライを除外しない
-    include_rts: true        // リツイートを含める
+    include_rts: false        // リツイートを含める
   });
 }
 
